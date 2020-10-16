@@ -1,4 +1,4 @@
-package com.fb.arrays;
+package com.fb.interviewcake;
 
 import com.fb.core.Test;
 

@@ -1,14 +1,11 @@
 package com.fb;
 
-import com.fb.arrays.MergeArrays;
-import com.fb.arrays.OrderChecker;
-import com.fb.arrays.ReverseStringInPlace;
-import com.fb.arrays.ReverseWordWithSpaces;
+import com.fb.interviewcake.WordMap;
 
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        // write your code here
 
 //        ReverseStringInPlace rs = new ReverseStringInPlace();
 //        rs.test();
@@ -16,7 +13,13 @@ public class Main {
 //        rw.test();
 //        MergeArrays ma = new MergeArrays();
 //        ma.test();
-        OrderChecker oc = new OrderChecker();
-        oc.test();
+//        OrderChecker oc = new OrderChecker();
+//        oc.test();
+//        MovieLength ml = new MovieLength();
+//        ml.test();
+//        PermutationPalindrome pp = new PermutationPalindrome();
+//        pp.test();
+        WordMap wm = new WordMap();
+        wm.test();
     }
 }
